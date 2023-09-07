@@ -2,7 +2,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Working-brightgreen?style=flat-square)](https://discord.gg/ekdpgUSrWB)
 
-Enhance your Voxiom.io experience with the Femboy Kirka.io Cheat – a powerful and customizable tool designed to elevate your gameplay. Join our Discord community for updates, support, and discussions: 
+Enhance your Voxiom.io experience with the Femboy Voxiom.io Cheat – a powerful and customizable tool designed to elevate your gameplay. Join our Discord community for updates, support, and discussions: 
 
 [Discord Link](https://discord.gg/HbvVzhsHzj)
 

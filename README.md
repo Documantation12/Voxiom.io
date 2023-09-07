@@ -9,6 +9,7 @@ Enhance your Voxiom.io experience with the Femboy Kirka.io Cheat – a powerful 
 ## Features
 - Aimbot
 - Esp
+- No Recoil
 
 ---
 

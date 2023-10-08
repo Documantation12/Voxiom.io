@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Voxiom.io Aimbot and Esp / No recoil
 // @namespace   https://discord.gg/ENHYznSPmM
-// @version     4.0
+// @version     5.0
 // @description Bug Fixes
 // @author      Jaguar
 // @icon        https://cdn.discordapp.com/icons/1140361748747141203/7234c7dfb6b45cb72a80b44a2303a342.png?size=1024
